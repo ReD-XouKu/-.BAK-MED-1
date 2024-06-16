@@ -1,7 +1,7 @@
 {
   "facebookAccount": {
-    "email": "bishworender@gmail.com",
-    "password": "bishwo13579",
+    "email": "",
+    "password": "",
     "2FASecret": "",
     "i_user": "",
     "proxy": null,
@@ -19,16 +19,16 @@
     ]
   },
   "adminBot": [
-    "100087591006635",
-    "100093016749575"
+    "61551808319261",
+    "61553425987326"
   ],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "S K Y 🕊️",
-  "prefix": "+",
+  "nickNameBot": "𓆩✰..𝗥𝗘𝗭..✰‣᭄𓆪🔥",
+  "prefix": "-",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
