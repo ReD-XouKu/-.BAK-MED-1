@@ -92,50 +92,28 @@ handlerCheckData.cantCreateUser=Users with id '%1' cannot be written to the data
 handlerEvents.userBanned=You have been banned from using the bot\n» Reason: %1\n» Time: %2\n» User ID: %3
 handlerEvents.threadBanned=This group has been banned from using the bot\n» Reason: %1\n» Time: %2\n» Thread ID: %3
 handlerEvents.onlyAdminBox=This group is currently enabled only group administrators can use the bot
-handlerEvents.onlyAdminBot=(⋋▂⋌)𝗔𝗖𝗖𝗘𝗦𝗦 𝗗𝗘𝗡𝗜𝗘𝗗 𝖮𝗇𝗅𝗒 𝖻𝗈𝗍 𝖺𝖽𝗆𝗂𝗇 𝖼𝖺𝗇 𝗎𝗌𝖾 𝗍𝗁𝖾 𝖻𝗈𝗍𝗌
-＼`•̀益•́´／<><><><><><><>＼`•̀益•́´／<><>><><><><(︶︹︺)<><><><><><><>
-handlerEvents.commandNotFound=⛔  "%1" 𝙘𝙤𝙢𝙢𝙖𝙣𝙙 𝙙𝙤𝙚𝙨 𝙣𝙤𝙩 𝙚𝙭𝙞𝙨𝙩 🟥
-〉 [+help🔸] 𝙏𝙊 𝙎𝙀𝙀 𝘾𝙊𝙈𝙈𝘼𝙉𝘿'𝙎 𝘽𝙊𝙏 
-________________________________
-🎖 Perfect 🎖 
-handlerEvents.commandNotFound2=𝑪𝒐𝒎𝒎𝒂𝒏𝒅 𝒏𝒐𝒕 𝒂𝒗𝒂𝒍𝒊𝒂𝒃𝒍𝒆 %1help 𝑻𝒐 𝒔𝒆𝒆 all 𝒕𝒉𝒆𝒆  𝒂𝒗𝒂𝒍𝒂𝒊𝒂𝒃𝒍𝒆 𝒄𝒐𝒎𝒎𝒂𝒎𝒅𝒔
-
-𝑩𝒐𝒕 𝒐𝒘𝒏𝒏𝒆𝒓(◕‿◕)
-https://www.facebook.com/m.zenesha
-handlerEvents.commandSyntaxError=𝕋𝕙𝕖 𝕔𝕠𝕞𝕞𝕒𝕟𝕕  𝕥𝕙𝕒𝕥 𝕪𝕠𝕦 𝕒𝕣𝕖 𝕖𝕩𝕖𝕔𝕦𝕥𝕚𝕟𝕘 𝕚𝕤  𝕖𝕟𝕧𝕒𝕝𝕚𝕕 𝕠𝕣 𝕨𝕣𝕠𝕟𝕘 𝕤𝕪𝕟𝕥𝕒𝕩, 𝕋𝕪𝕡𝕖  %1help %2  𝕥𝕠 𝕜𝕟𝕠𝕨 𝕙𝕠𝕨  𝕔𝕠𝕞𝕞𝕒𝕟𝕕 𝕨𝕠𝕣𝕜𝕤
-handlerEvents.onlyAdmin=(〒︿〒) 𝚂𝚘𝚛𝚛𝚢 𝚝𝚑𝚒𝚜 𝚌𝚘𝚖𝚖𝚊𝚗𝚍 "%1" 𝚌𝚊𝚗 𝚘𝚗𝚕𝚢 𝚋𝚎 𝚎𝚡𝚎𝚌𝚞𝚝𝚎 𝚋𝚢 𝙶𝚛𝚘𝚞𝚙 𝙰𝚍𝚖𝚒𝚗𝚜 
-_________________________________         🤠𝚃𝚑𝚊𝚗𝚔 𝚢𝚘𝚞 🤓
-<><>><>><<<><><><><><><><><><><>>
-handlerEvents.onlyAdminToUseOnReply=❌ | 𝖲𝗈𝗋𝗋𝗒 𝗍𝗁𝗂𝗌 𝖼𝗈𝗆𝗆𝖺𝗇𝖽 "%1" 𝖼𝖺𝗇  𝗈𝗇𝗅𝗒 𝖻𝖾 𝖾𝗑𝖾𝖼𝗎𝗍𝖾𝖽 𝖻𝗒 𝗀𝗋𝗈𝗎𝗉 𝖠𝖽𝗆𝗂𝗇𝗌 
-_________________________________
-(┳◇┳)𝖯𝗋𝖾𝖿𝖾𝗋 𝗍𝗈 𝗍𝖺𝗅𝗄 𝗐𝗂𝗍𝗁 𝖺𝖽𝗆𝗂𝗇(┳◇┳)
-_________________________________
-            😇𝖳𝗁𝖺𝗇𝗄 𝗒𝗈𝗎😇
-<><><><><><><><><><><><><><><><><
-handlerEvents.onlyAdminToUseOnReaction=❌ | 𝗧𝗵𝗲 𝗚𝗿𝗼𝘂𝗽 𝗔𝗗𝗠𝗜𝗡𝗦 𝗰𝗮𝗻 𝗲𝘅𝗲𝗰𝘂𝘁𝗲 𝘁𝗵𝗲 𝗿𝗲𝗮𝗰𝘁𝗶𝗼𝗻 𝗳𝘂𝗻𝗰𝘁𝗶𝗼𝗻 𝗼𝗳 𝘁𝗵𝗲  𝗰𝗼𝗺𝗺𝗮𝗻𝗱𝘀 "%1"
-handlerEvents.onlyAdminBot2= 🈲THROUGH YOU🈲
-_________________________________
-〉𝑳𝒐𝒓𝒅 𝑪𝒂𝒏 𝒐𝒏𝒍𝒚 𝑨𝒄𝒆𝒔𝒔 𝒕𝒉𝒆 𝒄𝒐𝒎𝒎𝒂𝒏𝒅  
-𝑴𝒓 𝒑𝒆𝒓𝒇𝒆𝒄𝒕
->𝑫𝒂𝒓𝒌𝒏𝒆𝒔𝒔
-https://www.facebook.com/m.zenesha𝚎
-THIS IS IT:
-https://www.facebook.com/m.zenesha
-=========================
-🎖CORE🎖=CORE:{+}
- 
-handlerEvents.onlyAdminBot2ToUseOnReply=❌ | Only bot's admin can use the reply function of the command "%1"
-handlerEvents.onlyAdminBot2ToUseOnReaction=❌ | Only bot's admin can use the reaction function of the command "%1"
-handlerEvents.waitingForCommand=⏱ You are in the waiting time to use this command, please come back after %1s
-handlerEvents.errorOccurred=❌ [ %1 ]\nAn error occurred at command "%2"\n\n%3
-handlerEvents.errorOccurred2=❌ [ %1 ]\nAn error occurred at command onChat in command "%2"\n\n%3
-handlerEvents.errorOccurred3=❌ [ %1 ]\nAn error occurred when executing onReply at command "%2"\n\n%3
-handlerEvents.errorOccurred4=❌ [ %1 ]\nAn error occurred when executing onReaction at command "%2"\n\n%3
-handlerEvents.errorOccurred5=❌ [ %1 ]\nAn error occurred when executing onEvent at command "%2"\n\n%3
-handlerEvents.errorOccurred6=❌ [ %1 ]\nAn error occurred when executing onEvent at command "%2"\n\n%3
-handlerEvents.errorOccurred7=❌ [ %1 ]\nAn error occurred when executing onAnyEvent at command "%2"\n\n%3
-handlerEvents.cannotFindCommandName=❌ Cannot find command name to execute this reply!
-handlerEvents.cannotFindCommand=❌ Cannot find command "%1" to execute this reply!
+handlerEvents.onlyAdminBot=💆𝐣𝐞 𝐬𝐮𝐢𝐬 𝐚𝐜𝐭𝐮𝐞𝐥𝐥𝐞𝐦𝐞𝐧𝐭 𝐬𝐨𝐮𝐬 𝐥𝐞𝐬 𝐨𝐫𝐝𝐫𝐞𝐬 𝐝𝐞 𝐦𝐨𝐧 𝐛𝐨𝐬𝐬  \n \n✰....
+𝗛𝗔𝗠𝗘𝗗....✰ 
+handlerEvents.commandNotFound=💆🎧𝐲𝐨, 𝐝𝐞́𝐬𝐨𝐥𝐞́ 𝐦𝐚𝐢𝐬 𝐣𝐞 𝐧'𝐞𝐬𝐭 𝐩𝐚𝐬 𝐜𝐞𝐭𝐭𝐞 𝐜𝐦𝐝 𝐞𝐧 𝐦𝐚 𝐩𝐨𝐬𝐬𝐞𝐬𝐬𝐢𝐨𝐧, 𝐬𝐢 𝐭𝐮 𝐯𝐞𝐮𝐱 𝐞𝐧 𝐬𝐚𝐯𝐨𝐢𝐫 𝐩𝐥𝐮𝐬 ➬ -callad
+handlerEvents.commandNotFound2=🤖 𝙽𝙾𝚃𝙸𝙲𝙴 𝙿𝙴𝚁𝚂𝙾 𝙳𝚄 𝙱𝙾𝚃 ◈━━━━━━━━━━━━━━━━◈\n𝗕𝗼𝘁 𝗮𝗱𝗺𝗶𝗻: 𝙱𝙰𝙺𝙰𝚈𝙾𝙺𝙾 𝙷𝙰𝙼𝙴𝙳 𝗮𝗻𝗱 𝚁𝙴𝙳-𝚇𝙾𝚄𝙺Ũ...💆 ◈━━━━━━━━━━━━━━━━◈ 𝗳𝗯 𝗟𝗶𝗻𝗸𝘀 𝗯𝗼𝘀𝘀 𝗵𝗮𝗺𝗲𝗱: https://www.facebook.com/nakashi.rhesus ◈━━━━━━━━━━━━━━━━◈  𝗳𝗯 𝗟𝗶𝗻𝗸𝘀 𝗯𝗼𝘀𝘀 𝗿𝗲𝗱-𝘅𝗼𝘂𝗸ũ: https://www.facebook.com/profile.php?id=61553425987326  ◈━━━━━━━━━━━━━━━━◈ 𝚜'𝚒𝚕 𝚟𝚘𝚞𝚜 𝚙𝚕𝚊𝚒̂𝚝 𝚕𝚒𝚔𝚎́ 𝚕𝚎 𝚙𝚛𝚘𝚏𝚒𝚕 𝚍𝚞 𝚋𝚘𝚝 
+handlerEvents.commandSyntaxError=𝐃𝐞́𝐬𝐨𝐥𝐞́ 𝐦𝐚𝐢𝐬 𝐥𝐞 𝐧𝐨𝐦 𝐬𝐚𝐢𝐬𝐢𝐫 𝐞𝐬𝐭 𝐢𝐧𝐜𝐨𝐫𝐫𝐞𝐜𝐭, 𝐞́𝐜𝐫𝐢𝐭 %1help %2 𝐩𝐨𝐮𝐫 𝐚𝐯𝐨𝐢𝐫 𝐩𝐥𝐮𝐬 𝐝'𝐢𝐧𝐟𝐨𝐬 𝐬𝐮𝐫 𝐥𝐚 𝐜𝐦𝐝..😉
+handlerEvents.onlyAdmin=🎧| 𝐬𝐞𝐮𝐥 𝐦𝐨𝐧 𝐛𝐨𝐬𝐬 𝐇𝐀𝐌𝐄𝐃 𝐚̀ 𝐥𝐞 𝐝𝐫𝐨𝐢𝐭 𝐝'𝐮𝐭𝐢𝐥𝐢𝐬𝐞𝐫 𝐜𝐞𝐭𝐭𝐞 𝐟𝐨𝐧𝐜𝐭𝐢𝐨𝐧 🙂 "%1" \n◈━━━━━⸙ - ⸙━━━━━━◈\n☘..𝗛𝗔𝗠𝗘𝗗..☘ 
+handlerEvents.onlyAdminToUseOnReply=🎧 | 𝐒𝐞𝐮𝐥𝐬 𝐥𝐞𝐬 𝐚𝐝𝐦𝐢𝐧𝐢𝐬𝐭𝐫𝐚𝐭𝐞𝐮𝐫𝐬 𝐝𝐞 𝐠𝐫𝐨𝐮𝐩𝐞 𝐩𝐞𝐮𝐯𝐞𝐧𝐭 𝐮𝐭𝐢𝐥𝐢𝐬𝐞𝐫 𝐥𝐚 𝐟𝐨𝐧𝐜𝐭𝐢𝐨𝐧 𝐝𝐞 𝐫𝐞́𝐩𝐨𝐧𝐬𝐞 𝐝𝐞 𝐥𝐚 𝐜𝐨𝐦𝐦𝐚𝐧𝐝𝐞
+ "%1"✰𝗥𝗲𝗗-𝗫𝗼𝘂𝗞𝘂✰🪽
+handlerEvents.onlyAdminToUseOnReaction=🎧| 𝐬𝐞𝐮𝐥 𝐥𝐞/ 𝐥𝐞𝐬 𝐦𝐞𝐜(𝐬) 𝐪𝐮𝐢 𝐚/𝐨𝐧 𝐥𝐞 𝐜𝐨𝐧𝐭𝐫𝐨̂𝐥𝐞 𝐝𝐮 𝐠𝐫𝐨𝐮𝐩𝐞 𝐩𝐞𝐮𝐭/𝐩𝐞𝐮𝐯𝐞𝐧𝐭 𝐮𝐭𝐢𝐥𝐢𝐬𝐞𝐫 𝐥𝐚 𝐜𝐦𝐝  "%1" \n☘..𝗛𝗔𝗠𝗘𝗗..☘
+handlerEvents.onlyAdminBot2=🎧| 𝐬𝐞𝐮𝐥 𝐦𝐨𝐧 𝐛𝐨𝐬𝐬 𝐇𝐀𝐌𝐄𝐃 𝐚̀ 𝐥𝐞 𝐝𝐫𝐨𝐢𝐭 𝐝'𝐮𝐭𝐢𝐥𝐢𝐬𝐞𝐫 𝐜𝐞𝐭𝐭𝐞 𝐟𝐨𝐧𝐜𝐭𝐢𝐨𝐧 🙂 "%1"
+handlerEvents.onlyAdminBot2ToUseOnReply=🎧 | 𝐬𝐞𝐮𝐥 ✰𝗥𝗲𝗗-𝗫𝗼𝘂𝗞𝘂✰🪽 𝐦𝐨𝐧 𝐛𝐨𝐬𝐬 𝐩𝐞𝐮𝐭 𝐮𝐭𝐢𝐥𝐢𝐬𝐞𝐫 𝐜𝐞𝐭𝐭𝐞 𝐟𝐨𝐧𝐜𝐭𝐢𝐨𝐧𝐧𝐚𝐥𝐢𝐭𝐞́ 𝐝𝐞 𝐫𝐞́𝐩𝐨𝐧𝐬𝐞 𝐀𝐮𝐱 𝐜𝐦𝐝 "%1"
+handlerEvents.onlyAdminBot2ToUseOnReaction=🎧 | 𝐬𝐞𝐮𝐥 ✰𝗥𝗲𝗗-𝗫𝗼𝘂𝗞𝘂✰🪽 𝐦𝐨𝐧 𝐛𝐨𝐬𝐬 𝐩𝐞𝐮𝐭 𝐮𝐭𝐢𝐥𝐢𝐬𝐞𝐫 𝐜𝐞𝐭𝐭𝐞 𝐟𝐨𝐧𝐜𝐭𝐢𝐨𝐧𝐧𝐚𝐥𝐢𝐭𝐞́ 𝐝𝐞 𝐫𝐞́𝐚𝐜𝐭𝐢𝐨𝐧 𝐀𝐮𝐱 𝐜𝐦𝐝 "%1"
+handlerEvents.waitingForCommand=⏱ 𝐭'𝐞𝐬 𝐩𝐫𝐞𝐬𝐬𝐞𝐫 𝐩𝐨𝐮𝐫 𝐪𝐮𝐨𝐢 𝐦𝐞̂𝐦𝐞...😕\n %1s
+handlerEvents.errorOccurred📬 [ %1 ]\nAn error occurred at command "%2"\n\n%3
+handlerEvents.errorOccurred2=📬 [ %1 ]\nAn error occurred at command onChat in command "%2"\n\n%3
+handlerEvents.errorOccurred3=📬 [ %1 ]\nAn error occurred when executing onReply at command "%2"\n\n%3
+handlerEvents.errorOccurred4=📬 [ %1 ]\nAn error occurred when executing onReaction at command "%2"\n\n%3
+handlerEvents.errorOccurred5=📬 [ %1 ]\nAn error occurred when executing onEvent at command "%2"\n\n%3
+handlerEvents.errorOccurred6=📬 [ %1 ]\nAn error occurred when executing onEvent at command "%2"\n\n%3
+handlerEvents.errorOccurred7=📬 [ %1 ]\nAn error occurred when executing onAnyEvent at command "%2"\n\n%3
+handlerEvents.cannotFindCommandName=📬 Cannot find command name to execute this reply!
+handlerEvents.cannotFindCommand=📬 Cannot find command "%1" to execute this reply!
 
 # bot/autoUptime.js
 autoUptime.autoUptimeTurnedOn=AutoUptime mode turned on
@@ -165,7 +143,7 @@ updater.skipFile=There is a new version of the %1 file, but you have skipped thi
 verifyfbid.sendCode=Your verification code is:\n%1\nThe verification code is valid for %2 minutes
 
 # utils.js
-utils.errorOccurred=❌ An error occurred:\n\n%1
+utils.errorOccurred=📬 An error occurred:\n\n%1
 
 # for command
 command.restartedBot=Bot has been restarted
@@ -177,3 +155,4 @@ app.notPermissionChangeFbstate=You do not have permission to change fbstate!
 app.notFoundFbstate=Please enter fbstate!
 app.changedFbstateSuccess=Successfully changed fbstate!
 app.serverError=Server an error, please try again later!
+
